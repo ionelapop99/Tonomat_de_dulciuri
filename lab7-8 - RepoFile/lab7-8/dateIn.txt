@@ -1,0 +1,20 @@
+1 5
+Coca-Cola
+2 4
+Fanta
+3 7
+M&M's
+4 3
+Kinder_Bueno
+5 20
+Rafaelo
+6 7
+Pernute_Viva
+7 3
+Guma_Orbit_Mint
+8 18
+PallMall_Negru
+9 15
+Kent_Mentol
+10 3
+Inghetata_Scufita_Rosie

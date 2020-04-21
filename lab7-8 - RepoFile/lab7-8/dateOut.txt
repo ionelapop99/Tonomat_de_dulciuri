@@ -1,0 +1,10 @@
+1 5
+Coca-Cola
+2 4
+Fanta
+3 7
+M&M's
+4 3
+Kinder_Bueno
+5 20
+Rafaelo
